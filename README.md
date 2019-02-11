@@ -3,6 +3,7 @@ A panel that lifts up next to the cats bed when it lies down so that it doesn't 
 
 Materials:
 - Resistive force sensor
+- regular resistor
 - arduino pro mini 5V
 - 5V battery
 - 2x Servo Motor 
